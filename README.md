@@ -60,6 +60,10 @@
     Приклад анімації heartbeat: https://codepen.io/mpadalko/pen/JjbErPB?editors=1100
     Модальне вікно ****https://codepen.io/mpadalko/pen/eYreJEL
 
+<!-- FORM -->
+
+    &nbsp - (замість символа " ")
+
 <!-- Interesting webs -->
 
     codepen.io (приклади по Grid)
