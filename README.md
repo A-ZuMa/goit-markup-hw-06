@@ -63,6 +63,7 @@
 <!-- FORM -->
 
     &nbsp - (замість символа " ")
+    icon-background - yoksel.github.io/url-encoder/
 
 <!-- Interesting webs -->
 
